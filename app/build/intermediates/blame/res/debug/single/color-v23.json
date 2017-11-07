@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/gelo/AndroidStudioProjects/SmartParking/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/gelo/.android/build-cache/fbdc4fe9f6c2759bd0a02d1ed394240748e83cfa/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/gelo/AndroidStudioProjects/SmartParking/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/gelo/.android/build-cache/fbdc4fe9f6c2759bd0a02d1ed394240748e83cfa/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/gelo/AndroidStudioProjects/SmartParking/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/gelo/.android/build-cache/fbdc4fe9f6c2759bd0a02d1ed394240748e83cfa/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/gelo/AndroidStudioProjects/SmartParking/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/gelo/.android/build-cache/fbdc4fe9f6c2759bd0a02d1ed394240748e83cfa/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/gelo/AndroidStudioProjects/SmartParking/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/gelo/.android/build-cache/fbdc4fe9f6c2759bd0a02d1ed394240748e83cfa/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/gelo/AndroidStudioProjects/SmartParking/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/home/gelo/.android/build-cache/0ee4b75d9151150b9562352cbcaefd0a41b2cd35/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/gelo/AndroidStudioProjects/SmartParking/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/gelo/.android/build-cache/fbdc4fe9f6c2759bd0a02d1ed394240748e83cfa/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/gelo/AndroidStudioProjects/SmartParking/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/gelo/.android/build-cache/fbdc4fe9f6c2759bd0a02d1ed394240748e83cfa/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/gelo/AndroidStudioProjects/SmartParking/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/gelo/.android/build-cache/fbdc4fe9f6c2759bd0a02d1ed394240748e83cfa/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/gelo/AndroidStudioProjects/SmartParking/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/gelo/.android/build-cache/fbdc4fe9f6c2759bd0a02d1ed394240748e83cfa/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/gelo/AndroidStudioProjects/SmartParking/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/gelo/.android/build-cache/fbdc4fe9f6c2759bd0a02d1ed394240748e83cfa/output/res/color-v23/abc_color_highlight_material.xml"
+    }
+]

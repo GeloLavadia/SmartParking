@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/gelo/AndroidStudioProjects/SmartParking/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/gelo/.android/build-cache/fbdc4fe9f6c2759bd0a02d1ed394240748e83cfa/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/gelo/AndroidStudioProjects/SmartParking/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/gelo/.android/build-cache/fbdc4fe9f6c2759bd0a02d1ed394240748e83cfa/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/gelo/AndroidStudioProjects/SmartParking/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/gelo/.android/build-cache/fbdc4fe9f6c2759bd0a02d1ed394240748e83cfa/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/gelo/AndroidStudioProjects/SmartParking/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/gelo/.android/build-cache/fbdc4fe9f6c2759bd0a02d1ed394240748e83cfa/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

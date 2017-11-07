@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Smart Parking</string>
+    <string name="title_parking_1">Parking 1</string>
+    <string name="title_parking_2">Parking 2</string>
+    <string name="row_park_in">PARK IN</string>
+    <string name="row_park_out">PARK OUT</string>
+    <string name="bluetooth_devices_list">LIST OF DEVICES</string>
+</resources>

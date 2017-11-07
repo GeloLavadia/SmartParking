@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/gelo/.android/build-cache/49545513e882d990fa88f07dde937e9819ef1486/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/home/gelo/AndroidStudioProjects/SmartParking/app/build/intermediates/pre-dexed/debug/classes_9e6d74d4308f544c73f133197db95d1bb527432b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gelo/.android/build-cache/aa389f71e1e0395810cb7f3b5e985cbb6d9cca3e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/home/gelo/AndroidStudioProjects/SmartParking/app/build/intermediates/pre-dexed/debug/classes_d655031eec1d80f168154ba088751aae1174d6c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gelo/.android/build-cache/0ee4b75d9151150b9562352cbcaefd0a41b2cd35/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/home/gelo/AndroidStudioProjects/SmartParking/app/build/intermediates/pre-dexed/debug/classes_7ef65ec8dd3932abeaebe2396b063d1f6caf966e.jar" />
+    </item>
+
+</items>
