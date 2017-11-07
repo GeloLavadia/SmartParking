@@ -1,7 +1,7 @@
 # SmartParking
 Smart Parking Monitoring Android Application Using Arduino
 ----------------------------------------------------------------------
-This project demostrate of identifying if the parking lot is available or occupied using Android Application. I also included SQLite database to save the date and time records.
+This project demostrate of identifying if the parking lot is available or occupied using Android Application. I also included SQLite database to save the date and time records. </br>
 
 **Requirements**
 *Hardware*
