@@ -16,7 +16,7 @@ __*Software*__ </br>
 *Android Studio </br>
 
 **Arduino Set-up** </br>
-![alt text](https://raw.githubusercontent.com/GeloLavadia/SmartParking/blob/master/arduino_setup.png) </br>
+![alt text](https://github.com/GeloLavadia/SmartParking/blob/master/arduino_setup.png) </br>
 *VCC >> 5V and GND >> GND (Both Bluetooth and Ultrasonic Sensors)
 __*Ultrasonic sensor of parking 1*__
 *Trig >> Pin2
